@@ -37,7 +37,8 @@ wget https://cdn.jsdelivr.net/gh/hifocus/twenty-twenty-style/style.css
 wget https://cdn.jsdelivr.net/gh/hifocus/twenty-twenty-style/style.min.css -O style.css
 ```
 
-> If anything goes wrong, install the v1.1 theme. Download it from here: [https://downloads.wordpress.org/theme/twentytwenty.1.1.zip](https://downloads.wordpress.org/theme/twentytwenty.1.1.zip)
+> If anything goes wrong, install the v1.1 theme.
+> Download it from here: [https://downloads.wordpress.org/theme/twentytwenty.1.1.zip](https://downloads.wordpress.org/theme/twentytwenty.1.1.zip).
 
 ### Additional Steps
 
@@ -67,4 +68,4 @@ To make sure to release the full power of the modified style, you need to do som
 
 ## License
 
-This repository is released under the same license as the original theme, 
+This repository is released under the same license as the original theme, [GNU General Public License 2.0](https://github.com/hifocus/twenty-twenty-style/blob/master/LICENSE).
