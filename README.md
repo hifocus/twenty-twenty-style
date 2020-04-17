@@ -68,4 +68,4 @@ To make sure to release the full power of the modified style, you need to do som
 
 ## License
 
-This repository is released under the same license as the original theme, [GNU General Public License 2.0](https://github.com/hifocus/twenty-twenty-style/blob/master/LICENSE).
+This repository is released under the same license as the original theme, the [GNU General Public License 2.0](https://github.com/hifocus/twenty-twenty-style/blob/master/LICENSE).
