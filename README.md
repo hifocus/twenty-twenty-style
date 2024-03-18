@@ -13,7 +13,7 @@ Despite the theme could be updated since I modified the style, the style is only
 - Despite the original display area width was designed for WordPress's block editor, the new change disabled the usability of all the featured components within the block editor.
 - Amended all the font-families. Removed the newly locally introduced [Inter](https://rsms.me/inter/) font-family, but prioritised the weight of the [Noto Serif SC](https://fonts.google.com/specimen/Noto+Serif+SC) font (need to be embeded from [Google Fonts](https://fonts.google.com/) later in the instructions). More font fallback options for [monospaced fonts](https://en.wikipedia.org/wiki/Monospaced_font).
 
-*Related blog post: [https://www.justhx.com/partly-technical/my-twentytwenty-theme-modification.html](https://www.justhx.com/partly-technical/my-twentytwenty-theme-modification.html) (written in Chinese)*
+*Related blog post: [https://huangxin.dev/partly-technical/my-twentytwenty-theme-modification.html](https://huangxin.dev/partly-technical/my-twentytwenty-theme-modification.html) (written in Chinese)*
 
 ## Screenshot
 
